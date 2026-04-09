@@ -39,4 +39,7 @@ User-friendly interface built with Streamlit for smooth interaction and experien
 - LangDetect  
 
 ---
+## Conclusion
 
+This project demonstrates the practical use of AI in solving real-world problems like speech recognition and language translation.  
+By integrating multiple input methods and intelligent processing, it provides a flexible and user-friendly solution for seamless communication.
