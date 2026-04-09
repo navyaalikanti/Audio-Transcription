@@ -39,6 +39,22 @@ User-friendly interface built with Streamlit for smooth interaction and experien
 - LangDetect  
 
 ---
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="s1.jpeg" width="400" height="250"/>
+  <img src="s2.jpeg" width="400" height="250"/>
+</p>
+
+<p align="center">
+  <img src="s3.jpeg" width="400" height="250"/>
+  <img src="s4.jpeg" width="400" height="250"/>
+</p>
+
+---
 ## Conclusion
 
 This project demonstrates the practical use of AI in solving real-world problems like speech recognition and language translation.  
